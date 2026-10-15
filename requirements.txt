@@ -1,0 +1,11 @@
+google-api-python-client
+google-cloud-compute
+google-cloud-storage
+google-cloud-bigquery
+google-api-core
+apache-beam[gcp]
+requests
+cloud-sql-python-connector[pymysql]
+PyMySQL
+google-cloud-secret-manager
+google-cloud-pubsub
